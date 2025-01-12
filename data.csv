@@ -1,0 +1,11 @@
+id,name,age,income,gender,target
+1,John,28,50000,Male,1
+2,Alice,34,65000,Female,0
+3,Bob,45,,Male,1
+4,Eve,29,72000,Female,0
+5,Mike,38,54000,Male,1
+6,Susan,31,,Female,0
+7,Chris,40,62000,Male,1
+8,Karen,27,58000,Female,0
+9,Tom,36,73000,Male,1
+10,Anna,30,,Female,0
