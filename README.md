@@ -12,6 +12,10 @@
 
 **MENTOR NAME**: NEELA SANTHOSH KUMAR
 
+# OUTPUT OF THE TASK
+
+![T1-OUTPUT](https://github.com/user-attachments/assets/a0e5ca34-635b-472a-914d-6142dbbde190)
+
 #DESCRIPTION OF TASK-1 
 
 Data Pipeline Development 
